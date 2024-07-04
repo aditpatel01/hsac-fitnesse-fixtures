@@ -54,7 +54,7 @@
 		<!-- classpath that Fitnesse uses when not starting from IDE/maven  -->
 		<standalone.classpath>wiki/fixtures</standalone.classpath>
 		<fitnesse.port>9090</fitnesse.port>
-		<extraFailsafeListeners />
+		<extraFailsafeListeners/>
 	</properties>
 
 	<dependencyManagement>
@@ -165,7 +165,7 @@
 			<!-- Added to override galen's old version -->
 			<groupId>com.google.code.gson</groupId>
 			<artifactId>gson</artifactId>
-			<version>2.10.1</version>
+			<version>2.11.0</version>
 		</dependency>
 		<dependency>
 			<!-- Added to override galen's old version -->
