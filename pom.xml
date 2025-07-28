@@ -54,7 +54,7 @@
 		<!-- classpath that Fitnesse uses when not starting from IDE/maven  -->
 		<standalone.classpath>wiki/fixtures</standalone.classpath>
 		<fitnesse.port>9090</fitnesse.port>
-		<extraFailsafeListeners />
+		<extraFailsafeListeners/>
 	</properties>
 
 	<dependencyManagement>
@@ -119,7 +119,7 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-text</artifactId>
-			<version>1.12.0</version>
+			<version>1.14.0</version>
 		</dependency>
 		<dependency>
 			<groupId>cglib</groupId>
